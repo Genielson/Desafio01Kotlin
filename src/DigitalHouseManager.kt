@@ -110,7 +110,7 @@ import java.time.LocalDateTime
 
     }
 
-    fun matricularAlunoCurso(codigoAluno: Int,  codigoCurso: Int){
+    fun matricularAluno(codigoAluno: Int,  codigoCurso: Int){
 
         var indiceNaoEncontrado = -1
 
