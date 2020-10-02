@@ -26,10 +26,10 @@ fun main(){
     digitalHouse.matricularAluno("Mark", "Zuckerberg", 4)
 
 
-    digitalHouse.matricularAlunoCurso(1,3)
-    digitalHouse.matricularAlunoCurso(2,1)
-    digitalHouse.matricularAlunoCurso(4,3)
-    digitalHouse.matricularAlunoCurso(5,5)
+    digitalHouse.matricularAluno(1,3)
+    digitalHouse.matricularAluno(2,1)
+    digitalHouse.matricularAluno(4,3)
+    digitalHouse.matricularAluno(5,5)
 
     digitalHouse.excluirProfessor(1)
     digitalHouse.excluirProfessor(2)
